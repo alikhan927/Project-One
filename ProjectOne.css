@@ -19,6 +19,18 @@ body { background: #8BD0E6}
   font-family: Comic Sans MS;
 }
 
+.values
+{
+  text-align: center;
+  font-family: Comic Sans MS;
+}
+.valuesbullets
+{
+  margin-left: 25%;
+  font-family: Comic Sans MS;
+  list-style-postion: inside;
+}
+
 .subtitle
 {
   text-align: center;
@@ -37,14 +49,35 @@ body { background: #8BD0E6}
   font-family: Comic Sans MS;
 
 }
-
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
+.Pictures
+{
+  text-align: center;
+  font-family: Comic Sans MS;
+}
 
+hr
+{
+border-color:black;
+}
+.hrcontainer
+{
+width:90%;
+margin: 0 auto;
+
+}
+
+.hrcontainer1
+{
+width:30%;
+margin: 0 auto;
+
+}
 
 .img
 {
@@ -55,4 +88,6 @@ body { background: #8BD0E6}
     padding: 10px;
 }
 .footer
-{ color: black}
+{ background-color: #292c2f;
+  box-shadow: 2px;
+  padding: 5px;}
